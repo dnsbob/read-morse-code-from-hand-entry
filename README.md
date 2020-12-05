@@ -11,3 +11,10 @@ Read the input, store as a series of on-length,off-length pairs, until a long (1
 Calculate a histogram of on-length and separate dots and dashes
 Calculate a histogram of off-length and separate dot/dash space from the spaces between letters
 If all chars are valid, turn LED green, else red
+
+Write for a Tricket M0 in CircuitPython
+Use Mu editor
+
+Morse code to test
+a b c d e
+".-", "-...", "-.-.", "-..", "."
